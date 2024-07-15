@@ -1,0 +1,6 @@
+- 👋 Hola, soy @FerDeGante
+- 👀 Me interesa el constante aprendizaje en programación, para resolver problemas y simplificar la vida
+- 🌱 Me encuentro estudiando un máster en programación en Dev.F
+- 👨🏻‍💻 Estoy apasionandome con el Gov-tech y desarrollando mi propia ciudad
+- 📫 mi correo es ferdegante.22@gmail.com
+- ⚡ Fun fact: soy abogado, pero estoy a punto de "des-graduarme" hacia otro rumbo.
